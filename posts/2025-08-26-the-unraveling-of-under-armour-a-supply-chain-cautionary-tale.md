@@ -1,10 +1,13 @@
 ---
 title: "The Unraveling of Under Armour: A Supply Chain Cautionary Tale"
 date: 2025-08-26T23:56:34
+modified: 2025-08-26T23:56:34
 slug: the-unraveling-of-under-armour-a-supply-chain-cautionary-tale
 status: publish
+type: post
 categories: [Supply Chain, S&amp;OP]
 tags: [business, customer, end to end, logistics, Supply chain]
+excerpt: "From Athletic Powerhouse to Strategic Restructuring Under Armour&#8216;s journey from a garage startup to a $5 billion athletic apparel giant is well-documented. However, the company&#8217;s recent struggles offer a sobering lesson in how supply chain vulnerabilities can amplify during periods of or"
 ---
 
 

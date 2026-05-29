@@ -1,10 +1,13 @@
 ---
 title: "The Wisdom of Insecurity: Why Supply Chains Must Learn to Dance"
 date: 2025-11-13T23:14:08
+modified: 2025-11-13T23:14:08
 slug: the-wisdom-of-insecurity-why-supply-chains-must-learn-to-dance
 status: publish
+type: post
 categories: [Supply Chain, Books, Communication, Leadership, Operations, Planning, Risk Management, Strategy]
 tags: [agile, business, customer, end to end, Supply chain]
+excerpt: "Alan Watts once wrote that life is &#8220;all about balancing, not about being balanced.&#8221; For those of us who have spent years in the trenches of supply chain management, this insight resonates with particular force. We&#8217;ve been taught to pursue stability, to eliminate variability, to bui"
 ---
 
 

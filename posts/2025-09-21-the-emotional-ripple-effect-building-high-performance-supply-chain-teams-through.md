@@ -1,10 +1,13 @@
 ---
 title: "The Emotional Ripple Effect: Building High-Performance Supply Chain Teams Through Positive Contagion"
 date: 2025-09-21T19:35:26
+modified: 2025-09-21T21:37:45
 slug: the-emotional-ripple-effect-building-high-performance-supply-chain-teams-through-positive-contagion
 status: publish
+type: post
 categories: [Supply Chain, Books, Communication, Customer, Logistics, Planning, Warehouse]
 tags: [business, Contagion, customer, Emotional contagion, Supply chain]
+excerpt: "In the fast-paced, high-stakes world of supply chain management, we often focus on metrics, processes and technology while overlooking one of the most powerful forces shaping our teams&#8217; performance: emotional contagion. Behavioral scientist Peter Totterdell&#8216;s groundbreaking research reve"
 ---
 
 

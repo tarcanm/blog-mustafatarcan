@@ -1,10 +1,13 @@
 ---
 title: "On-Time In-Full (OTIF): The Key to Supply Chain Efficiency"
 date: 2025-02-20T23:04:09
+modified: 2025-02-21T01:24:05
 slug: on-time-in-full-otif-the-key-to-supply-chain-efficiency
 status: publish
+type: post
 categories: [Supply Chain, Customer]
 tags: [customer, OTIF, Supply chain]
+excerpt: "Supply Chain Leaders focus on satisfying their customers. Managing key customer requires a lot of efforts and we need some metrics to make sure that the operations are efficient. In that regard, On-Time In-Full (OTIF) is the vital part of this process. What is On-Time In-Full (OTIF)? On-Time In-Full"
 ---
 
 

@@ -1,10 +1,13 @@
 ---
 title: "Stop Waiting for Stability. Your Supply Chain Never Will Be Stable Again."
 date: 2026-05-29T01:56:54
+modified: 2026-05-29T02:22:21
 slug: stop-waiting-for-stability-your-supply-chain-never-will-be-stable-again
 status: publish
+type: post
 categories: [Supply Chain, Leadership, Risk Management, S&amp;OP]
 tags: [demand planning, integrated business planning, S&amp;OP, supply chain disruption, supply chain resilience, supply chain volatility]
+excerpt: "For most of my career in supply chain management, the implicit goal after every disruption was the same: get back to normal. Restore the baseline. Return to stability. We treated disruptions as unwanted visitors that would eventually leave if we waited long enough. That mindset no longer serves us. "
 ---
 
 

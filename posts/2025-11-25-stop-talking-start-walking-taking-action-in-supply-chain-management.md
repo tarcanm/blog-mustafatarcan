@@ -1,10 +1,13 @@
 ---
 title: "Stop Talking, Start Walking: Taking Action in Supply Chain Management"
 date: 2025-11-25T17:38:23
+modified: 2025-11-25T17:38:23
 slug: stop-talking-start-walking-taking-action-in-supply-chain-management
 status: publish
+type: post
 categories: [Supply Chain, Communication, Leadership, Project management, Strategy]
 tags: [agile, business, end to end, logistics, Supply chain]
+excerpt: "Stop talking. Start walking. These four powerful words from L. M. Heroux capture a truth that resonates deeply within the world of supply chain management. In an industry where planning, strategizing, and analyzing consume countless hours, the real differentiator between success and stagnation is ac"
 ---
 
 

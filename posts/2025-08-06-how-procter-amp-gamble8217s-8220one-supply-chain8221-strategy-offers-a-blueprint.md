@@ -1,10 +1,12 @@
 ---
 title: "How Procter &amp; Gamble&#8217;s &#8220;One Supply Chain&#8221; Strategy Offers a Blueprint for Supply Chain Excellence"
 date: 2025-08-06T01:46:32
+modified: 2025-08-14T00:00:31
 slug: how-procter-gambles-one-supply-chain-strategy-offers-a-blueprint-for-supply-chain-excellence
 status: publish
+type: post
 categories: [Supply Chain, Digitalization, End to End Visibility, Inventory Management, Logistics, Planning]
-tags: []
+excerpt: "For decades, supply chains were viewed as necessary evils, back-office operations focused purely on cost reduction and efficiency. But visionary companies like Walmart, Amazon, Apple, and Zara changed that narrative, proving that supply chain excellence could become a powerful competitive differenti"
 ---
 
 

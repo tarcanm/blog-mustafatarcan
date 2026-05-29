@@ -1,10 +1,13 @@
 ---
 title: "Building a Thriving Supply Chain Culture: Where Daily Actions Meet Team Success"
 date: 2026-02-06T22:28:53
+modified: 2026-02-06T22:28:53
 slug: building-a-thriving-supply-chain-culture-where-daily-actions-meet-team-success
 status: publish
+type: post
 categories: [Supply Chain, Communication, Leadership, Operations, Strategy]
 tags: [business, end to end, logistics, Supply chain]
+excerpt: "In the complex world of supply chain management, technical expertise and operational efficiency often dominate the conversation. Yet the most successful supply chain organizations understand a fundamental truth: culture isn&#8217;t created by mission statements or team building events alone. It&#821"
 ---
 
 

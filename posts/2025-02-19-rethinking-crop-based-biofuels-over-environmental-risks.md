@@ -1,10 +1,13 @@
 ---
 title: "Rethinking Crop-Based Biofuels Over Environmental Risks"
 date: 2025-02-19T01:49:30
+modified: 2025-02-21T01:27:06
 slug: rethinking-crop-based-biofuels-over-environmental-risks
 status: publish
+type: post
 categories: [Supply Chain, Logistics, Sustainability]
 tags: [Supply chain]
+excerpt: "As the global shipping industry faces increasing pressure to reduce its carbon footprint, major players like Hapag-Lloyd, Hoegh Autoliners, and Louis Dreyfus are calling on the International Maritime Organization (IMO) to exclude crop-based biofuels from its list of sustainable fuel alternatives. Th"
 ---
 
 

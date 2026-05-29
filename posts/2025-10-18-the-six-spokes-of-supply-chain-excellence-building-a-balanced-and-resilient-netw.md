@@ -1,10 +1,12 @@
 ---
 title: "The Six Spokes of Supply Chain Excellence: Building a Balanced and Resilient Network"
 date: 2025-10-18T20:56:46
+modified: 2025-10-18T21:10:39
 slug: the-six-spokes-of-supply-chain-excellence-building-a-balanced-and-resilient-network
 status: publish
+type: post
 categories: [Supply Chain, Books, Communication, Customer, End to End Visibility, IBP, Leadership, Operations, Planning, S&amp;OP, Strategy]
-tags: []
+excerpt: "Just as Darius Foroux&#8217;s Six Spokes Theory emphasizes the importance of balancing body, mind, work, love, money, and play for an optimal life. I believe that the supply chain management requires a similar holistic approach. A truly resilient and efficient supply chain operates like a well-balan"
 ---
 
 

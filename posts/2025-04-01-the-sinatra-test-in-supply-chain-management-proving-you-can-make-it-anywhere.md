@@ -1,10 +1,12 @@
 ---
 title: "The Sinatra Test in Supply Chain Management: Proving You Can Make It Anywhere"
 date: 2025-04-01T01:12:05
+modified: 2025-04-01T01:12:05
 slug: the-sinatra-test-in-supply-chain-management-proving-you-can-make-it-anywhere
 status: publish
+type: post
 categories: [Supply Chain, Books, Customer, Logistics, Project management, Warehouse]
-tags: []
+excerpt: "Frank Sinatra’s legendary song New York, New York isn’t just a song about ambition—it’s a philosophy. The line “If I can make it there, I’ll make it anywhere” captures the idea that conquering the toughest challenge in your field proves you can handle anything. Chip and Dan Heath, in their book Made"
 ---
 
 

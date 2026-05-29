@@ -1,10 +1,12 @@
 ---
 title: "Overcoming the Curse of Knowledge in Supply Chain Communication"
 date: 2025-02-15T04:27:42
+modified: 2025-02-21T01:28:07
 slug: overcoming-the-curse-of-knowledge-in-supply-chain-communication
 status: publish
+type: post
 categories: [Supply Chain, Communication]
-tags: []
+excerpt: "In the fast-paced world of supply chain management, effective communication is the backbone of success. However, a common cognitive bias known as the&nbsp;curse of knowledge&nbsp;often hinders this process. The curse of knowledge refers to the difficulty experts face in imagining what it’s like to l"
 ---
 
 

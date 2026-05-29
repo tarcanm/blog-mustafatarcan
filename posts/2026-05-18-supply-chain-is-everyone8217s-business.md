@@ -1,10 +1,13 @@
 ---
 title: "Supply Chain Is Everyone&#8217;s Business:"
 date: 2026-05-18T00:37:25
+modified: 2026-05-18T00:37:25
 slug: supply-chain-is-everyones-business
 status: publish
+type: post
 categories: [Supply Chain, Communication, IBP, Leadership, S&amp;OP]
 tags: [business, culture, Supply chain]
+excerpt: "Why Cross-Functional Literacy Is the New Competitive Advantage Supply chain management has spent decades living in the back office. It was the function that quietly kept shelves full, factories running and shipments moving. It is invisible when things went well and suddenly everyone&#8217;s problem "
 ---
 
 

@@ -1,10 +1,12 @@
 ---
 title: "The global economy is facing a critical test of 𝒓𝒆𝒔𝒊𝒍𝒊𝒆𝒏𝒄𝒆."
 date: 2026-03-27T01:20:12
+modified: 2026-03-27T01:20:12
 slug: the-global-economy-is-facing-a-critical-test-of-%f0%9d%92%93%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%8d%f0%9d%92%8a%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%84%f0%9d%92%86
 status: publish
+type: post
 categories: [Supply Chain, Logistics, Operations, Planning, Risk Management]
-tags: []
+excerpt: "Conflict in the Middle East is creating uncertainty and disrupting trade. Growth is being supported by strong tech investment and production, as well as lower tariffs.However, the halt in shipments through key waterways is having a negative impact. This delicate balance of opposing forces matters be"
 ---
 
 

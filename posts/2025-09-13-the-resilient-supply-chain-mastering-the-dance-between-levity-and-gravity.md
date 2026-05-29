@@ -1,10 +1,13 @@
 ---
 title: "The Resilient Supply Chain: Mastering the Dance Between Levity and Gravity"
 date: 2025-09-13T23:01:20
+modified: 2025-09-13T23:01:33
 slug: the-resilient-supply-chain-mastering-the-dance-between-levity-and-gravity
 status: publish
+type: post
 categories: [Supply Chain, Books, Innovation, Risk Management]
 tags: [agile, business, customer, innovation, risk management, Supply chain]
+excerpt: "In the complex world of supply chain management, we often find ourselves caught between two powerful forces. As Daniel Pink notes in To Sell is Human, healthy positivity requires calibration between levity that unseen force that lifts you skyward and gravity which is the opposing force that pulls yo"
 ---
 
 

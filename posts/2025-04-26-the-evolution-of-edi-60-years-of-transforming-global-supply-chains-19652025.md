@@ -1,10 +1,13 @@
 ---
 title: "The Evolution of EDI: 60 Years of Transforming Global Supply Chains (1965–2025)"
 date: 2025-04-26T22:23:12
+modified: 2025-04-26T22:23:12
 slug: the-evolution-of-edi-60-years-of-transforming-global-supply-chains-1965-2025
 status: publish
+type: post
 categories: [Supply Chain, Digitalization]
 tags: [API, business, customer, EDI, Electronic Data Interchange, logistics, Supply chain]
+excerpt: "Introduction Electronic Data Interchange (EDI) has been the backbone of B2B communications for 60 years, revolutionizing how businesses exchange documents like purchase orders, invoices, and shipping notices. Since the first EDI message was sent in 1965 via telex by the Holland-America Line, this te"
 ---
 
 

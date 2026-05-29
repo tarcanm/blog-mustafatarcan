@@ -1,10 +1,12 @@
 ---
 title: "Why Machines Can’t Foster Trust but Can Sustain It: Agentic AI and Supply Chain Collaboration"
 date: 2025-05-08T16:07:23
+modified: 2025-05-08T16:07:23
 slug: why-machines-cant-foster-trust-but-can-sustain-it-agentic-ai-and-supply-chain-collaboration
 status: publish
+type: post
 categories: [Supply Chain]
-tags: []
+excerpt: "In an era where artificial intelligence (AI) permeates every link of the supply chain, it&#8217;s tempting to think machines can do it all, even foster trust and collaboration. But here&#8217;s the truth: machines cannot create trust or initiate genuine collaboration. These are inherently human qual"
 ---
 
 

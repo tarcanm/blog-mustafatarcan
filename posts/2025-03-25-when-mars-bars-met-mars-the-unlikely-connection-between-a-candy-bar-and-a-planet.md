@@ -1,10 +1,13 @@
 ---
 title: "When Mars Bars Met Mars: The Unlikely Connection Between a Candy Bar and a Planet"
 date: 2025-03-25T14:11:11
+modified: 2025-03-25T14:11:11
 slug: when-mars-bars-met-mars-the-unlikely-connection-between-a-candy-bar-and-a-planet
 status: publish
+type: post
 categories: [Supply Chain, Planning, S&amp;OE, S&amp;OP]
 tags: [business, customer, mars, Supply chain]
+excerpt: "In the world of marketing, serendipity often plays a role as significant as strategy. Sometimes, the most unexpected events can lead to surprising outcomes, and the story of Mars bars and NASA’s Pathfinder mission is a perfect example of this phenomenon. Back in mid-1997, the candy company Mars noti"
 ---
 
 

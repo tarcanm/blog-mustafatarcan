@@ -1,10 +1,13 @@
 ---
 title: "The Wisdom of Balance: What Confucius Teaches Us About Supply Chain Excellence"
 date: 2025-11-08T01:16:20
+modified: 2025-11-08T01:16:20
 slug: the-wisdom-of-balance-what-confucius-teaches-us-about-supply-chain-excellence
 status: publish
+type: post
 categories: [Supply Chain, Customer, Digitalization, End to End Visibility, Innovation, Inventory Management, Leadership, Operations, Planning, Project management, Strategy]
 tags: [business, Confucius, customer, Supply chain]
+excerpt: "Over two millennia ago, Confucius observed a fundamental truth about human progress: &#8220;Learning without thought is labor lost. Thought without learning is intellectual death.&#8221; As I reflect on this quote, I&#8217;m struck by how profoundly this ancient wisdom applies to our modern, fast-pa"
 ---
 
 

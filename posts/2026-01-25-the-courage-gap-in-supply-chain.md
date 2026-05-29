@@ -1,10 +1,13 @@
 ---
 title: "The Courage Gap in Supply Chain"
 date: 2026-01-25T20:08:46
+modified: 2026-01-25T20:08:46
 slug: the-courage-gap-in-supply-chain
 status: publish
+type: post
 categories: [Supply Chain, Books, Communication, Innovation, Leadership, Project management, Risk Management]
 tags: [business, customer, logistics, risk management, Supply chain]
+excerpt: "Peter Thiel&#8216;s observation in &#8220;Zero to One&#8221; that courage is rarer than genius strikes at the heart of what holds back supply chain transformation. We&#8217;ve all sat in conference rooms filled with smart people who can articulate exactly what needs to change. The whiteboards fill w"
 ---
 
 

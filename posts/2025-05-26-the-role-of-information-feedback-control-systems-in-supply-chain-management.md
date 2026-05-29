@@ -1,10 +1,12 @@
 ---
 title: "The Role of Information-Feedback Control Systems in Supply Chain Management"
 date: 2025-05-26T01:59:27
+modified: 2025-05-26T01:59:27
 slug: the-role-of-information-feedback-control-systems-in-supply-chain-management
 status: publish
+type: post
 categories: [Supply Chain]
-tags: []
+excerpt: "Introduction Information-feedback control systems are the backbone of all life and human activity, from biological evolution to advanced technological systems. As Jay W. Forrester, the pioneer of system dynamics, once said: &#8220;Everything we do as individuals, as an industry, or as a society is d"
 ---
 
 

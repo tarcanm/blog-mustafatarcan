@@ -1,10 +1,13 @@
 ---
 title: "Do you always need the software package for Process Mining? Try Python instead…"
 date: 2025-06-28T02:09:23
+modified: 2025-06-28T02:25:43
 slug: do-you-always-need-the-software-package-for-process-mining-try-python-instead
 status: publish
+type: post
 categories: [Supply Chain, Customer, Digitalization, Logistics, S&amp;OE, S&amp;OP, Warehouse]
 tags: [business, digital, logistics, process mining, Supply chain]
+excerpt: "Last year, I was sitting in yet another vendor demo for a process mining platform. The price tag? 6-figure$ for the first year, plus implementation costs. The sales rep was enthusiastic about their revolutionary(!) capabilities, but I couldn&#8217;t help thinking: &#8220;I could build something more"
 ---
 
 

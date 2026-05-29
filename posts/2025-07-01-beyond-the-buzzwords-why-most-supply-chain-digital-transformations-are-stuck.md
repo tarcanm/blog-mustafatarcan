@@ -1,10 +1,12 @@
 ---
 title: "Beyond the Buzzwords: Why Most Supply Chain Digital Transformations Are Stuck?"
 date: 2025-07-01T02:24:58
+modified: 2025-07-01T02:24:58
 slug: beyond-the-buzzwords-why-most-supply-chain-digital-transformations-are-stuck
 status: publish
+type: post
 categories: [Books, Digitalization, Project management, Supply Chain]
-tags: []
+excerpt: "A supply chain leader&#8217;s perspective on Eric Kimberling&#8217;s &#8220;Final Countdown: Strategies to Reach the Third Stage of Digital Transformation&#8220; The supply chain world is drowning in digital transformation promises. Every vendor claims their solution will revolutionize your operatio"
 ---
 
 

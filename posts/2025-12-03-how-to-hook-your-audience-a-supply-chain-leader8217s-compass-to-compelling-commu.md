@@ -1,10 +1,13 @@
 ---
 title: "How to Hook Your Audience: A Supply Chain Leader&#8217;s Compass to Compelling Communication"
 date: 2025-12-03T23:02:18
+modified: 2025-12-03T23:14:53
 slug: how-to-hook-your-audience-a-supply-chain-leaders-compass-to-compelling-communication
 status: publish
+type: post
 categories: [Supply Chain, Communication, Leadership, Strategy]
 tags: [agile, business, customer, digital, end to end, logistics, Supply chain]
+excerpt: "As supply chain professionals, we often fall into a trap: we know our world is fascinating, but we struggle to make others see it. We talk about lead times, inventory turns, and logistics networks while our audience&#8217;s eyes glaze over. The truth is, supply chain isn&#8217;t boring but our story"
 ---
 
 

@@ -1,7 +1,10 @@
 {
-  "blog": "blog.mustafatarcan.online",
-  "backup_date": "2026-05-29T11:36:09Z",
+  "blog": "https://blog.mustafatarcan.online",
+  "backup_date": "2026-05-29T11:44:01Z",
   "total_posts": 40,
+  "total_pages": 1,
+  "total_media": 132,
+  "media_downloaded": 132,
   "categories": {
     "26": "Books",
     "25": "Communication",
@@ -74,5 +77,6 @@
     "68": "under armour",
     "46": "visibility",
     "20": "WiFi"
-  }
+  },
+  "wxr_export": "wordpress-export.xml"
 }
