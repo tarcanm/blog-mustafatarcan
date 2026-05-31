@@ -1,7 +1,7 @@
 ---
 title: "When You Have No Plan B: Finding Leverage in Supplier Negotiations"
 date: 2026-05-30T03:00:07
-modified: 2026-05-30T03:00:07
+modified: 2026-05-30T09:26:45
 slug: when-you-have-no-plan-b-finding-leverage-in-supplier-negotiations
 status: publish
 type: post

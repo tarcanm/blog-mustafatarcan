@@ -1,7 +1,7 @@
 ---
 title: "When the Strait Falls Silent: Energy Supply Chains and the New Geopolitics of Oil"
 date: 2026-05-30T02:52:27
-modified: 2026-05-30T02:52:27
+modified: 2026-05-30T09:44:46
 slug: when-the-strait-falls-silent-energy-supply-chains-and-the-new-geopolitics-of-oil
 status: publish
 type: post
@@ -12,10 +12,6 @@ excerpt: "The global energy supply chain is facing one of its most severe tests 
 
 
 <p class="wp-block-paragraph">The global energy supply chain is facing one of its most severe tests since the modern oil era began. When a major geopolitical confrontation erupted near the most critical maritime chokepoint in the world, the Strait of Hormuz, the immediate shockwaves were felt across every continent. Yet what is unfolding now is a slow motion drama of risk, resilience, and strategic repositioning that every supply chain professional must understand.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=1200&#038;q=80" alt="Oil tanker ships at sea" style="width:100%"/><figcaption>The world&#8217;s most critical energy artery runs through the Strait of Hormuz</figcaption></figure>
 
 
 
