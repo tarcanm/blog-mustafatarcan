@@ -1,7 +1,7 @@
 ---
 title: "AI Won&#8217;t Fix a Broken Foundation"
 date: 2026-06-05T21:15:18
-modified: 2026-06-05T21:15:18
+modified: 2026-06-07T22:20:25
 slug: ai-wont-fix-a-broken-foundation
 status: publish
 type: post
