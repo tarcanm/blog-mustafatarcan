@@ -6,7 +6,7 @@ slug: overcoming-the-curse-of-knowledge-in-supply-chain-communication
 status: publish
 type: post
 categories: [Supply Chain, Communication]
-excerpt: "In the fast-paced world of supply chain management, effective communication is the backbone of success. However, a common cognitive bias known as the&nbsp;curse of knowledge&nbsp;often hinders this process. The curse of knowledge refers to the difficulty experts face in imagining what it’s like to l"
+excerpt: "In the fast-paced world of supply chain management, effective communication is the backbone of success. However, a common cognitive bias known as the&nbsp;curse of knowledge&nbsp;often hinders this process. The curse of knowledge refers to the&#8230;"
 ---
 
 

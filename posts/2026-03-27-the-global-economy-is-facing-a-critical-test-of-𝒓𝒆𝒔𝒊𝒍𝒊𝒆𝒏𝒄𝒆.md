@@ -6,7 +6,7 @@ slug: the-global-economy-is-facing-a-critical-test-of-%f0%9d%92%93%f0%9d%92%86%f
 status: publish
 type: post
 categories: [Supply Chain, Logistics, Operations, Planning, Risk Management]
-excerpt: "Conflict in the Middle East is creating uncertainty and disrupting trade. Growth is being supported by strong tech investment and production, as well as lower tariffs.However, the halt in shipments through key waterways is having a negative impact. This delicate balance of opposing forces matters be"
+excerpt: "Conflict in the Middle East is creating uncertainty and disrupting trade. Growth is being supported by strong tech investment and production, as well as lower tariffs.However, the halt in shipments through key waterways is having&#8230;"
 ---
 
 

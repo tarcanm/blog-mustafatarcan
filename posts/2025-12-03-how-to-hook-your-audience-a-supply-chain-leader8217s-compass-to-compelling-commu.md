@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Communication, Leadership, Strategy]
 tags: [agile, business, customer, digital, end to end, logistics, Supply chain]
-excerpt: "As supply chain professionals, we often fall into a trap: we know our world is fascinating, but we struggle to make others see it. We talk about lead times, inventory turns, and logistics networks while our audience&#8217;s eyes glaze over. The truth is, supply chain isn&#8217;t boring but our story"
+excerpt: "As supply chain professionals, we often fall into a trap: we know our world is fascinating, but we struggle to make others see it. We talk about lead times, inventory turns, and logistics networks while&#8230;"
 ---
 
 

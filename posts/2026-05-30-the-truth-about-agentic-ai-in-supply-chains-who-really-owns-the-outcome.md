@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [agentic AI, AI accountability, AI traceability, autonomous supply chain, supply chain governance, supply chain risk management]
-excerpt: "The Agentic Shift: Why Your Supply Chain Now Makes Decisions Without You For years, artificial intelligence in supply chain was a glorified assistant. It flagged anomalies, suggested reroutes, and highlighted demand shifts, but always handed the final call to a human planner. That era is ending. AI "
+excerpt: "The Agentic Shift: Why Your Supply Chain Now Makes Decisions Without You For years, artificial intelligence in supply chain was a glorified assistant. It flagged anomalies, suggested reroutes, and highlighted demand shifts, but always handed&#8230;"
 ---
 
 

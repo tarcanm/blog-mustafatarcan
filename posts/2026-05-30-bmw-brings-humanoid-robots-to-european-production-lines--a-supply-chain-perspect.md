@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [Aeon robot, automotive supply chain, BMW, digital twin, Hexagon Robotics, humanoid robots, Industry 4.0, manufacturing automation, robotics in logistics, supply chain technology]
-excerpt: "BMW Brings Humanoid Robots to European Production Lines In a move that signals a major shift in automotive manufacturing, BMW has announced it will deploy humanoid robots in its European production facilities. The German automaker is assigning two Aeon robots — manufactured by Hexagon Robotics — to "
+excerpt: "BMW Brings Humanoid Robots to European Production Lines In a move that signals a major shift in automotive manufacturing, BMW has announced it will deploy humanoid robots in its European production facilities. The German automaker&#8230;"
 ---
 
 

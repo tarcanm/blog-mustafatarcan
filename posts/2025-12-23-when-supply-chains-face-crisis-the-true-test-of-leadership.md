@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Books, Communication, Leadership, Operations, Risk Management, Risk Management, Strategy]
 tags: [agile, business, challenges, leadership, Supply chain]
-excerpt: "In his book High Ticket Selling, Dan Henry shares a profound insight that resonates deeply with anyone who has navigated the complexities of modern supply chain management: &#8220;The truth is, we are not defined by how we react in times of triumph but by how we react in times of struggle. Anyone ca"
+excerpt: "In his book High Ticket Selling, Dan Henry shares a profound insight that resonates deeply with anyone who has navigated the complexities of modern supply chain management: &#8220;The truth is, we are not defined by&#8230;"
 ---
 
 

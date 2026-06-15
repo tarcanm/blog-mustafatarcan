@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Digitalization]
 tags: [API, business, customer, EDI, Electronic Data Interchange, logistics, Supply chain]
-excerpt: "Introduction Electronic Data Interchange (EDI) has been the backbone of B2B communications for 60 years, revolutionizing how businesses exchange documents like purchase orders, invoices, and shipping notices. Since the first EDI message was sent in 1965 via telex by the Holland-America Line, this te"
+excerpt: "Introduction Electronic Data Interchange (EDI) has been the backbone of B2B communications for 60 years, revolutionizing how businesses exchange documents like purchase orders, invoices, and shipping notices. Since the first EDI message was sent in 1965 via&#8230;"
 ---
 
 

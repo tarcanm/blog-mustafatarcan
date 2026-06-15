@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Books, Communication, Customer, Logistics, Planning, Warehouse]
 tags: [business, Contagion, customer, Emotional contagion, Supply chain]
-excerpt: "In the fast-paced, high-stakes world of supply chain management, we often focus on metrics, processes and technology while overlooking one of the most powerful forces shaping our teams&#8217; performance: emotional contagion. Behavioral scientist Peter Totterdell&#8216;s groundbreaking research reve"
+excerpt: "In the fast-paced, high-stakes world of supply chain management, we often focus on metrics, processes and technology while overlooking one of the most powerful forces shaping our teams&#8217; performance: emotional contagion. Behavioral scientist Peter Totterdell&#8216;s&#8230;"
 ---
 
 

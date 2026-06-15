@@ -6,7 +6,7 @@ slug: too-big-to-sail-container-lines-hit-84-7-market-share
 status: publish
 type: post
 categories: [Supply Chain, Logistics, Risk Management]
-excerpt: "The global container shipping industry has reached a level of concentration that would have seemed unthinkable just a decade ago. The top ten ocean carriers now control 84.7 percent of global container capacity, and Mediterranean Shipping Company (MSC) has become the first operator in history to bre"
+excerpt: "The global container shipping industry has reached a level of concentration that would have seemed unthinkable just a decade ago. The top ten ocean carriers now control 84.7 percent of global container capacity, and Mediterranean&#8230;"
 ---
 
 

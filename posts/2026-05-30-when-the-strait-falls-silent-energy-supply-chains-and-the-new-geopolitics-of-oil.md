@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [energy supply chain, geopolitical risk, global trade, maritime logistics, oil tankers, Strait of Hormuz, supply chain disruption, supply chain resilience]
-excerpt: "The global energy supply chain is facing one of its most severe tests since the modern oil era began. When a major geopolitical confrontation erupted near the most critical maritime chokepoint in the world, the Strait of Hormuz, the immediate shockwaves were felt across every continent. Yet what is "
+excerpt: "The global energy supply chain is facing one of its most severe tests since the modern oil era began. When a major geopolitical confrontation erupted near the most critical maritime chokepoint in the world, the&#8230;"
 ---
 
 

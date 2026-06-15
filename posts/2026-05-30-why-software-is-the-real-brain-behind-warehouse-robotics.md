@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [AI in logistics, autonomous mobile robots, cognitive warehouse, robotics software, supply chain technology, warehouse AI, warehouse automation, warehouse robotics]
-excerpt: "The warehouse robotics industry has experienced explosive growth over the past several years. Walk into any modern distribution center and you will see autonomous mobile vehicles gliding across the floor, robotic arms sorting packages at lightning speed, and automated guided vehicles following preci"
+excerpt: "The warehouse robotics industry has experienced explosive growth over the past several years. Walk into any modern distribution center and you will see autonomous mobile vehicles gliding across the floor, robotic arms sorting packages at&#8230;"
 ---
 
 

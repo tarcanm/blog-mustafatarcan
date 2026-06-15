@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [inventory strategy, logistics, perma crisis, supply chain management, supply chain resilience]
-excerpt: "For decades, the supply chain world operated under a simple rule: cost is king. Companies optimized every link in their networks for the lowest possible price, often at the expense of flexibility and redundancy. Just in time inventory management became the golden standard, and anything that added co"
+excerpt: "For decades, the supply chain world operated under a simple rule: cost is king. Companies optimized every link in their networks for the lowest possible price, often at the expense of flexibility and redundancy. Just&#8230;"
 ---
 
 

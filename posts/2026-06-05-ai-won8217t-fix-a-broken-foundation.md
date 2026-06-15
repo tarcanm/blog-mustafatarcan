@@ -6,7 +6,7 @@ slug: ai-wont-fix-a-broken-foundation
 status: publish
 type: post
 categories: [Uncategorized]
-excerpt: "Artificial intelligence is everywhere in supply chain right now. Every conference, every vendor pitch, every industry report talks about AI powered forecasting, AI driven optimization, and AI native planning. The hype is real, and so is the investment. But here is the uncomfortable truth most compan"
+excerpt: "Artificial intelligence is everywhere in supply chain right now. Every conference, every vendor pitch, every industry report talks about AI powered forecasting, AI driven optimization, and AI native planning. The hype is real, and so&#8230;"
 ---
 
 <p>Artificial intelligence is everywhere in supply chain right now. Every conference, every vendor pitch, every industry report talks about AI powered forecasting, AI driven optimization, and AI native planning. The hype is real, and so is the investment. But here is the uncomfortable truth most companies are discovering: AI does not fix a broken foundation.</p>

@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Communication, Leadership, Operations, Strategy]
 tags: [customer, operations, people, strategy, Supply chain]
-excerpt: "As supply chain professionals, we constantly seek proven frameworks that can elevate our operations from good to exceptional. Cem Kozlu&#8217;s insights in &#8220;Liderin Takım Çantası&#8221; (Toolbox of the Leader) offer a compelling perspective through Muhtar Kent&#8217;s leadership approach: the "
+excerpt: "As supply chain professionals, we constantly seek proven frameworks that can elevate our operations from good to exceptional. Cem Kozlu&#8217;s insights in &#8220;Liderin Takım Çantası&#8221; (Toolbox of the Leader) offer a compelling perspective through Muhtar&#8230;"
 ---
 
 

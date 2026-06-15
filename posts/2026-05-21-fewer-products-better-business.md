@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Operations, Project management, Strategy]
 tags: [business, end to end, Supply chain, under armour]
-excerpt: "What Under Armour&#8217;s SKU Reduction Tells Every Supply Chain Leader There is a question every supply chain leader should be asking right now, and it has nothing to do with tariffs or freight rates. It is this: how many of your SKUs are actually earning their place? Under Armour just answered tha"
+excerpt: "What Under Armour&#8217;s SKU Reduction Tells Every Supply Chain Leader There is a question every supply chain leader should be asking right now, and it has nothing to do with tariffs or freight rates. It&#8230;"
 ---
 
 

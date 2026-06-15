@@ -6,7 +6,7 @@ slug: agentic-coding-is-reshaping-supply-chain-leadership
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "Supply chain leaders are quietly confronting a new question: do you need to write code to stay relevant? The answer, increasingly, is yes but not the way you think. Agentic coding is not about becoming a software engineer. It is about understanding that the tools reshaping supply chains AI agents, a"
+excerpt: "Supply chain leaders are quietly confronting a new question: do you need to write code to stay relevant? The answer, increasingly, is yes but not the way you think. Agentic coding is not about becoming&#8230;"
 ---
 
 

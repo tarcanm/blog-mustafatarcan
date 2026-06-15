@@ -6,7 +6,7 @@ slug: why-giants-run-their-own-ships
 status: publish
 type: post
 categories: [Supply Chain, Logistics]
-excerpt: "The old rule of global trade was simple: manufacturers make, retailers sell, and shipping lines move the boxes. That division of labor has defined containerized trade for half a century. But a growing number of companies, from the world&#8217;s largest retailers to niche consumer brands, are rewriti"
+excerpt: "The old rule of global trade was simple: manufacturers make, retailers sell, and shipping lines move the boxes. That division of labor has defined containerized trade for half a century. But a growing number of&#8230;"
 ---
 
 

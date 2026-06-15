@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Communication, Customer, Digitalization, Warehouse]
 tags: [agile, customer, digital, logistics, Supply chain]
-excerpt: "&#8220;A desk is a dangerous place from which to view the world,&#8221; wrote master storyteller John le Carré, and nowhere does this observation ring truer than in modern supply chain management. In an era where global supply networks span continents and encompass thousands of touchpoints, the supp"
+excerpt: "&#8220;A desk is a dangerous place from which to view the world,&#8221; wrote master storyteller John le Carré, and nowhere does this observation ring truer than in modern supply chain management. In an era where&#8230;"
 ---
 
 

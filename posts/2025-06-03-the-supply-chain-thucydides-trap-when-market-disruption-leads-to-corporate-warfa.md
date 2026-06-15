@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Books]
 tags: [business, customer, digital, Supply chain]
-excerpt: "In ancient Greece, historian Thucydides observed that &#8220;the growth of the power of Athens, and the alarm which this inspired in Sparta, made war inevitable.&#8221; This phenomenon, now known as the Thucydides Trap, describes the dangerous dynamic when a rising power threatens to displace an est"
+excerpt: "In ancient Greece, historian Thucydides observed that &#8220;the growth of the power of Athens, and the alarm which this inspired in Sparta, made war inevitable.&#8221; This phenomenon, now known as the Thucydides Trap, describes the&#8230;"
 ---
 
 

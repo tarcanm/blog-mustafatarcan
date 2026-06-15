@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Customer, Digitalization, Logistics]
 tags: [business, customer, digital, Electronic Data Interchange, logistics, Supply chain, sustainability]
-excerpt: "As global trade enters the next chapter of digitization, a silent yet powerful legal instrument is reshaping the way we exchange, finance, and secure goods across borders: the UNCITRAL (United Nations Commission on International Trade Law) has created the Model Law on Electronic Transferable Records"
+excerpt: "As global trade enters the next chapter of digitization, a silent yet powerful legal instrument is reshaping the way we exchange, finance, and secure goods across borders: the UNCITRAL (United Nations Commission on International Trade&#8230;"
 ---
 
 

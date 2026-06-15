@@ -6,7 +6,7 @@ slug: when-airfreight-doubles-exports-crumble
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "The Bangladesh Warning Bangladesh is learning a hard lesson. Vegetables and seasonal fruit exports from the country have fallen sharply over the past five months as airfreight rates nearly doubled. The cause is no longer a temporary demand spike. It is a structural shift triggered by the US/Israel I"
+excerpt: "The Bangladesh Warning Bangladesh is learning a hard lesson. Vegetables and seasonal fruit exports from the country have fallen sharply over the past five months as airfreight rates nearly doubled. The cause is no longer&#8230;"
 ---
 
 

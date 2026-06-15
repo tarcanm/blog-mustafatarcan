@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Books, Communication, Digitalization, Supply Chain]
 tags: [agile, business, communication, customer, decentralization, digital, Supply chain]
-excerpt: "In the 1990s, British anthropologist Robin Dunbar proposed a fascinating idea: humans have a cognitive limit to the number of meaningful relationships they can maintain somewhere between 100 and 250, with 150 being the most commonly cited figure. This concept, known as the Dunbar number, suggests th"
+excerpt: "In the 1990s, British anthropologist Robin Dunbar proposed a fascinating idea: humans have a cognitive limit to the number of meaningful relationships they can maintain somewhere between 100 and 250, with 150 being the most commonly cited figure. This concept,&#8230;"
 ---
 
 

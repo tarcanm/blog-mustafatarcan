@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Digitalization]
 tags: [business, safety, travel, WiFi]
-excerpt: "In today’s fast-paced world, professionals are constantly on the move. Whether you’re attending conferences, meeting clients, or working remotely, hotel WiFi has become an essential tool for staying connected. However, public networks—especially those in hotels—are often unsecured, making them a pri"
+excerpt: "In today’s fast-paced world, professionals are constantly on the move. Whether you’re attending conferences, meeting clients, or working remotely, hotel WiFi has become an essential tool for staying connected. However, public networks—especially those in hotels—are&#8230;"
 ---
 
 

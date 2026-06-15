@@ -6,7 +6,7 @@ slug: how-procter-gambles-one-supply-chain-strategy-offers-a-blueprint-for-suppl
 status: publish
 type: post
 categories: [Supply Chain, Digitalization, End to End Visibility, Inventory Management, Logistics, Planning]
-excerpt: "For decades, supply chains were viewed as necessary evils, back-office operations focused purely on cost reduction and efficiency. But visionary companies like Walmart, Amazon, Apple, and Zara changed that narrative, proving that supply chain excellence could become a powerful competitive differenti"
+excerpt: "For decades, supply chains were viewed as necessary evils, back-office operations focused purely on cost reduction and efficiency. But visionary companies like Walmart, Amazon, Apple, and Zara changed that narrative, proving that supply chain excellence&#8230;"
 ---
 
 

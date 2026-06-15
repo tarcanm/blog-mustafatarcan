@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Logistics, Sustainability]
 tags: [Supply chain]
-excerpt: "As the global shipping industry faces increasing pressure to reduce its carbon footprint, major players like Hapag-Lloyd, Hoegh Autoliners, and Louis Dreyfus are calling on the International Maritime Organization (IMO) to exclude crop-based biofuels from its list of sustainable fuel alternatives. Th"
+excerpt: "As the global shipping industry faces increasing pressure to reduce its carbon footprint, major players like Hapag-Lloyd, Hoegh Autoliners, and Louis Dreyfus are calling on the International Maritime Organization (IMO) to exclude crop-based biofuels from&#8230;"
 ---
 
 

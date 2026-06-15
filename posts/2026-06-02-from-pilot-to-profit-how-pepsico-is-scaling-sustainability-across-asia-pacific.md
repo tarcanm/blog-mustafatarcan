@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [Asia Pacific supply chain, circular economy, greenhouse accelerator, PepsiCo, supply chain scaling, sustainability]
-excerpt: "Sustainability in supply chains is entering a new phase. For a decade, the conversation centered on commitments, roadmaps, and pilot programs. These were necessary, but they also created a convenient gap: between what companies announced and what they actually implemented, there was room for delay. "
+excerpt: "Sustainability in supply chains is entering a new phase. For a decade, the conversation centered on commitments, roadmaps, and pilot programs. These were necessary, but they also created a convenient gap: between what companies announced&#8230;"
 ---
 
 

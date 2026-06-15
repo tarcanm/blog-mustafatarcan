@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Customer]
 tags: [customer, OTIF, Supply chain]
-excerpt: "Supply Chain Leaders focus on satisfying their customers. Managing key customer requires a lot of efforts and we need some metrics to make sure that the operations are efficient. In that regard, On-Time In-Full (OTIF) is the vital part of this process. What is On-Time In-Full (OTIF)? On-Time In-Full"
+excerpt: "Supply Chain Leaders focus on satisfying their customers. Managing key customer requires a lot of efforts and we need some metrics to make sure that the operations are efficient. In that regard, On-Time In-Full (OTIF)&#8230;"
 ---
 
 

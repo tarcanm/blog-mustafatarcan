@@ -6,7 +6,7 @@ slug: your-most-frustrated-customers-are-your-best-teachers
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "Every company has them. The customers who call five times. The ones who send angry emails at midnight. The ones who leave one star reviews that haunt your marketing team for years. Conventional wisdom says to manage them, pacify them, and move on. But what if those customers are actually your most v"
+excerpt: "Every company has them. The customers who call five times. The ones who send angry emails at midnight. The ones who leave one star reviews that haunt your marketing team for years. Conventional wisdom says&#8230;"
 ---
 
 <p>Every company has them. The customers who call five times. The ones who send angry emails at midnight. The ones who leave one star reviews that haunt your marketing team for years. Conventional wisdom says to manage them, pacify them, and move on.</p>

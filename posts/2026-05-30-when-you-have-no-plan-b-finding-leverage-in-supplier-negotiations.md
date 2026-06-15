@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain]
 tags: [BATNA, leverage in negotiations, negotiation tactics, procurement strategy, strategic sourcing, supplier negotiation, supplier relationship management, supply chain negotiation, supply chain resilience]
-excerpt: "Every supply chain professional has faced that moment. You are sitting across the table from a supplier who knows they are your only option. They have the capability, the capacity, or the certification that no one else can offer. And they are using that leverage to demand terms that hurt your margin"
+excerpt: "Every supply chain professional has faced that moment. You are sitting across the table from a supplier who knows they are your only option. They have the capability, the capacity, or the certification that no&#8230;"
 ---
 
 

@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Leadership]
 tags: [business, customer, end to end, servant leadership, Supply chain]
-excerpt: "When you sit down at a fine restaurant, you rarely think about the intricate coordination happening behind the scenes. A great waiter makes the experience feel effortless: taking your order, communicating your preferences to the kitchen, managing your expectations, and delivering your meal with a sm"
+excerpt: "When you sit down at a fine restaurant, you rarely think about the intricate coordination happening behind the scenes. A great waiter makes the experience feel effortless: taking your order, communicating your preferences to the&#8230;"
 ---
 
 

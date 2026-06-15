@@ -6,7 +6,7 @@ slug: when-ai-supply-chains-fail
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "The Starbucks Cautionary Tale Starbucks spent nine months and millions of dollars on an AI powered inventory counting system. Then it pulled the plug. The computer vision system, designed to automatically track stock levels across thousands of stores, was deemed unreliable by the very employees who "
+excerpt: "The Starbucks Cautionary Tale Starbucks spent nine months and millions of dollars on an AI powered inventory counting system. Then it pulled the plug. The computer vision system, designed to automatically track stock levels across&#8230;"
 ---
 
 

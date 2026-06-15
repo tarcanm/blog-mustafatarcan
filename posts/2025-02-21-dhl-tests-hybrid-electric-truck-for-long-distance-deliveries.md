@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Logistics, Sustainability]
 tags: [logistics, Supply chain, sustainability]
-excerpt: "DHL Group is taking a major step toward sustainable logistics by testing a new hybrid electric truck that is named as Extended Range Electric Vehicle (EREV) in partnership with heavy vehicle manufacturer Scania. This innovative truck combines the benefits of electric power with a fuel-powered genera"
+excerpt: "DHL Group is taking a major step toward sustainable logistics by testing a new hybrid electric truck that is named as Extended Range Electric Vehicle (EREV) in partnership with heavy vehicle manufacturer Scania. This innovative&#8230;"
 ---
 
 

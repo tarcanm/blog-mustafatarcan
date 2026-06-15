@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Logistics, Operations]
 tags: [Amazon, Dollar General, ecommerce logistics, last mile delivery, Nespresso, Supply chain]
-excerpt: "The last mile has always been the expensive mile. It accounts for over half of total shipping costs, eats up margins, and frustrates customers when it goes wrong. For years the playbook was simple: throw more vans at the problem, offer free shipping, and hope the economics work out. That era is endi"
+excerpt: "The last mile has always been the expensive mile. It accounts for over half of total shipping costs, eats up margins, and frustrates customers when it goes wrong. For years the playbook was simple: throw&#8230;"
 ---
 
 

@@ -6,7 +6,7 @@ slug: the-sinatra-test-in-supply-chain-management-proving-you-can-make-it-anywhe
 status: publish
 type: post
 categories: [Supply Chain, Books, Customer, Logistics, Project management, Warehouse]
-excerpt: "Frank Sinatra’s legendary song New York, New York isn’t just a song about ambition—it’s a philosophy. The line “If I can make it there, I’ll make it anywhere” captures the idea that conquering the toughest challenge in your field proves you can handle anything. Chip and Dan Heath, in their book Made"
+excerpt: "Frank Sinatra’s legendary song New York, New York isn’t just a song about ambition—it’s a philosophy. The line “If I can make it there, I’ll make it anywhere” captures the idea that conquering the toughest challenge in your field&#8230;"
 ---
 
 
@@ -23,7 +23,7 @@ excerpt: "Frank Sinatra’s legendary song New York, New York isn’t just a s
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Theme From New York, New York (2008 Remastered)" width="640" height="480" src="https://www.youtube.com/embed/le1QF3uoQNg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="Theme From New York, New York (2008 Remastered)" width="500" height="375" src="https://www.youtube.com/embed/le1QF3uoQNg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

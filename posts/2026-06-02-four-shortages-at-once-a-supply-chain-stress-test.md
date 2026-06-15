@@ -6,7 +6,7 @@ slug: four-shortages-at-once-a-supply-chain-stress-test
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "Shortages rarely arrive one at a time. In supply chains, they cluster. When climate, labor, policy, and infrastructure failures converge in the same quarter, the result is not a series of isolated problems. It is a systemic stress test. Right now, four distinct shortage signals are flashing simultan"
+excerpt: "Shortages rarely arrive one at a time. In supply chains, they cluster. When climate, labor, policy, and infrastructure failures converge in the same quarter, the result is not a series of isolated problems. It is&#8230;"
 ---
 
 

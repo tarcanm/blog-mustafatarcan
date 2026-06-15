@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Digitalization, End to End Visibility, Inventory Management, Logistics, Planning, Project management]
 tags: [digital, end to end, free pilot, Supply chain]
-excerpt: "In the competitive landscape of supply chain technology, vendors frequently dangle the carrot of &#8220;free pilot programs&#8221; to entice potential customers. These seemingly generous offers promise risk-free trials of cutting-edge solutions, from AI-powered demand forecasting to blockchain-enabl"
+excerpt: "In the competitive landscape of supply chain technology, vendors frequently dangle the carrot of &#8220;free pilot programs&#8221; to entice potential customers. These seemingly generous offers promise risk-free trials of cutting-edge solutions, from AI-powered demand forecasting&#8230;"
 ---
 
 

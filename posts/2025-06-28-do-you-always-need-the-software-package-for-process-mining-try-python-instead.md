@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Customer, Digitalization, Logistics, S&amp;OE, S&amp;OP, Warehouse]
 tags: [business, digital, logistics, process mining, Supply chain]
-excerpt: "Last year, I was sitting in yet another vendor demo for a process mining platform. The price tag? 6-figure$ for the first year, plus implementation costs. The sales rep was enthusiastic about their revolutionary(!) capabilities, but I couldn&#8217;t help thinking: &#8220;I could build something more"
+excerpt: "Last year, I was sitting in yet another vendor demo for a process mining platform. The price tag? 6-figure$ for the first year, plus implementation costs. The sales rep was enthusiastic about their revolutionary(!) capabilities,&#8230;"
 ---
 
 

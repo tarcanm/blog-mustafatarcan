@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Planning, S&amp;OE, S&amp;OP]
 tags: [business, customer, mars, Supply chain]
-excerpt: "In the world of marketing, serendipity often plays a role as significant as strategy. Sometimes, the most unexpected events can lead to surprising outcomes, and the story of Mars bars and NASA’s Pathfinder mission is a perfect example of this phenomenon. Back in mid-1997, the candy company Mars noti"
+excerpt: "In the world of marketing, serendipity often plays a role as significant as strategy. Sometimes, the most unexpected events can lead to surprising outcomes, and the story of Mars bars and NASA’s Pathfinder mission is&#8230;"
 ---
 
 

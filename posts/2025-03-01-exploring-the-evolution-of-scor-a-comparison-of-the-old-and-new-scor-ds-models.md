@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Customer, S&amp;OE, S&amp;OP]
 tags: [business, customer, logistics, Supply chain, sustainability]
-excerpt: "The supply chain world is constantly evolving, and a new debate has emerged regarding two dominant SCOR (Supply Chain Operations Reference) models. On one side stands the traditional SCOR model (Plan, Source, Make, Deliver, Return), supported mainly by Gartner. On the other, the Association for Supp"
+excerpt: "The supply chain world is constantly evolving, and a new debate has emerged regarding two dominant SCOR (Supply Chain Operations Reference) models. On one side stands the traditional SCOR model (Plan, Source, Make, Deliver, Return),&#8230;"
 ---
 
 

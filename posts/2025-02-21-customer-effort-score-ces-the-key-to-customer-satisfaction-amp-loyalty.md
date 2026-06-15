@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Communication, Customer]
 tags: [business, customer, Supply chain]
-excerpt: "Customer experience is a major factor in business success. A seamless and hassle-free experience keeps customers returning, while a frustrating one drives them away. This is where the&nbsp;Customer Effort Score (CES)&nbsp;comes into play. CES measures how easy it is for customers to interact with yo"
+excerpt: "Customer experience is a major factor in business success. A seamless and hassle-free experience keeps customers returning, while a frustrating one drives them away. This is where the&nbsp;Customer Effort Score (CES)&nbsp;comes into play. CES measures&#8230;"
 ---
 
 

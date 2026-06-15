@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Innovation, Leadership, Logistics, Operations, Strategy]
 tags: [agile, business, customer, end to end, logistics, Supply chain, sustainability]
-excerpt: "In supply chain management, success breeds success. The companies that excel today are positioning themselves to dominate tomorrow, while struggling organizations fall further behind. This phenomenon, known as the Matthew Effect, reveals a fundamental truth about competitive advantage in modern logi"
+excerpt: "In supply chain management, success breeds success. The companies that excel today are positioning themselves to dominate tomorrow, while struggling organizations fall further behind. This phenomenon, known as the Matthew Effect, reveals a fundamental truth&#8230;"
 ---
 
 

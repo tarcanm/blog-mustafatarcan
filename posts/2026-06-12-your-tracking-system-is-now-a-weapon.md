@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Digitalization, End to End Visibility, Logistics, Operations]
 tags: [end to end, Supply chain]
-excerpt: "The same satellite infrastructure that lets logistics managers know exactly where their cargo is at any given moment is being turned against them. GPS tracking systems, once the gold standard of supply chain visibility, have become a double-edged sword. As cargo thieves grow more technologically sop"
+excerpt: "The same satellite infrastructure that lets logistics managers know exactly where their cargo is at any given moment is being turned against them. GPS tracking systems, once the gold standard of supply chain visibility, have&#8230;"
 ---
 
 

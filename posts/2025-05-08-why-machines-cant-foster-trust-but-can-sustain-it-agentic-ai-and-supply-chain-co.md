@@ -6,7 +6,7 @@ slug: why-machines-cant-foster-trust-but-can-sustain-it-agentic-ai-and-supply-ch
 status: publish
 type: post
 categories: [Supply Chain]
-excerpt: "In an era where artificial intelligence (AI) permeates every link of the supply chain, it&#8217;s tempting to think machines can do it all, even foster trust and collaboration. But here&#8217;s the truth: machines cannot create trust or initiate genuine collaboration. These are inherently human qual"
+excerpt: "In an era where artificial intelligence (AI) permeates every link of the supply chain, it&#8217;s tempting to think machines can do it all, even foster trust and collaboration. But here&#8217;s the truth: machines cannot create&#8230;"
 ---
 
 

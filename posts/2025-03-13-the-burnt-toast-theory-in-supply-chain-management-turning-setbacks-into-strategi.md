@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Communication, Customer, Planning, Project management]
 tags: [business, customer, logistics, Supply chain]
-excerpt: "Have you ever had one of those days where everything seems to go wrong in your supply chain? A shipment is delayed, a supplier misses a deadline, or a machine breaks down. It feels like the universe is conspiring against your operations. But what if these small setbacks were actually saving you from"
+excerpt: "Have you ever had one of those days where everything seems to go wrong in your supply chain? A shipment is delayed, a supplier misses a deadline, or a machine breaks down. It feels like&#8230;"
 ---
 
 

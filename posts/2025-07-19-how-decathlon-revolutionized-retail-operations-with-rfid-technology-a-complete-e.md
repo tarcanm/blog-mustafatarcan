@@ -7,7 +7,7 @@ status: publish
 type: post
 categories: [Supply Chain, Customer, Digitalization, End to End Visibility, Inventory Management, Logistics]
 tags: [business, customer, Decathlon, digital, end to end, logistics, RFID, Supply chain, visibility]
-excerpt: "In the competitive world of sporting goods retail, inventory management and operational efficiency can make or break a business. Decathlon, the French multinational sporting goods retailer with over 1,500 stores worldwide, recognized this challenge early and embarked on an ambitious digital transfor"
+excerpt: "In the competitive world of sporting goods retail, inventory management and operational efficiency can make or break a business. Decathlon, the French multinational sporting goods retailer with over 1,500 stores worldwide, recognized this challenge early&#8230;"
 ---
 
 
