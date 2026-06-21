@@ -1,8 +1,8 @@
 ---
 title: "Why Supply Chain Tech ROI Falls Short&#8230;"
 date: 2026-06-19T22:27:36
-modified: 2026-06-19T23:48:06
-slug: 647
+modified: 2026-06-20T22:27:33
+slug: why-supply-chain-tech-roi-falls-short
 status: publish
 type: post
 categories: [Supply Chain, Digitalization, Project management]
