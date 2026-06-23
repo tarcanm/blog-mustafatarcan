@@ -1,0 +1,21 @@
+---
+title: "Football Is Not Only Football: Hyundai World Cup Supply Chain Protest"
+date: 2026-06-22T23:31:55
+modified: 2026-06-22T23:41:22
+slug: hyundai-world-cup-supply-chain-protest
+status: publish
+type: post
+categories: [Supply Chain, Communication, Risk Management, Sustainability]
+tags: [human rights, Hyundai, protest, steel, supplier due diligence, Supply chain, Ternium, World Cup]
+excerpt: "When protestors gathered outside Guadalajara Stadium during the World Cup match between Mexico and South Korea, they were not there for football. They were there for steel. Their banners accused Hyundai of hiding a dirty&#8230;"
+---
+
+<p>When protestors gathered outside Guadalajara Stadium during the World Cup match between Mexico and South Korea, they were not there for football. They were there for steel. Their banners accused Hyundai of hiding a dirty supply chain, targeting the Korean automaker not for what it builds but for who supplies it.</p>
+<p>The protest turns on a simple truth that supply chain professionals understand better than anyone: a product is only as clean as the raw materials that go into it. Hyundai, as FIFA&#8217;s official mobility sponsor, provides transportation across the tournament. But the steel inside those vehicles comes from Ternium, a South American steel supplier accused of polluting communities across Brazil and Argentina, and linked to the disappearance of activists in Mexico. According to The Guardian, two men vanished in 2023 after attending an anti-mining meeting in Aquila, Mexico. Eyewitnesses reported they had been threatened and followed. Their car was later found riddled with bullets on a highway.</p>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://images.pexels.com/photos/36397790/pexels-photo-36397790.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Steel coils at an industrial site" style="width:100%"/></figure>
+<p>This is the moment where the saying football is not only football reveals its full weight. A stadium full of cheering fans, global broadcast rights, multi-million dollar sponsorships, and yet the ball is kicked on a pitch where the supply chain casts a long shadow. The World Cup is marketed as a celebration of sport, unity, and human achievement. But its sponsors bring the entire weight of their industrial ecosystems with them, including every tier one, tier two, and tier three supplier in the chain.</p>
+<p>Tier one suppliers like Ternium sit at the top of the visibility ladder, but many companies still struggle to see beyond them. A 2024 report from the Centre for Research on Energy and Clean Air alleged that a Ternium plant in Rio de Janeiro emitted pollutants tied to 300 new cases of asthma in children and numerous deaths from respiratory infections, lung cancer, diabetes, and strokes. When a supplier operates at that scale, the automaker must answer for it. Hyundai&#8217;s spokesperson stated the company is committed to holding suppliers to the highest standards and enforces a strict supplier code of conduct, adding that they continue to conduct training, audits, and supply chain due diligence across global operations.</p>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://images.pexels.com/photos/15926253/pexels-photo-15926253.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="World Cup stadium aerial view" style="width:100%"/></figure>
+<p>The gap between a code of conduct and lived reality on the ground is where reputations are lost. No audit program can fully substitute for the fierce, uncomfortable visibility that comes when activists take their case from the mining community to the stadium gates. The protestors are planning more demonstrations, including a July 9 action ahead of a World Cup quarterfinal in Los Angeles. The supply chain is now a public stage, and every audience is watching.</p>
+<p>For supply chain leaders, the lesson is urgent. Football may be just football on the pitch, but the steel in the cars that carry the players tells a different story. The companies that understand this will be the ones that treat supplier due diligence not as a compliance checkbox but as a strategic imperative. Because in the end, there is no hiding in the supply chain. The truth finds its way to the stadium.</p>
+
