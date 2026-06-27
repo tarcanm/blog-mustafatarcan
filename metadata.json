@@ -1,9 +1,9 @@
 {
   "blog": "https://blog.mustafatarcan.online",
-  "backup_date": "2026-06-26T01:02:06Z",
-  "total_posts": 75,
+  "backup_date": "2026-06-27T01:02:34Z",
+  "total_posts": 76,
   "total_pages": 1,
-  "total_media": 182,
+  "total_media": 184,
   "media_downloaded": 5,
   "categories": {
     "200": "AI",
@@ -16,6 +16,7 @@
     "12": "IBP",
     "228": "Infrastructure",
     "52": "Innovation",
+    "230": "International Trade",
     "43": "Inventory Management",
     "58": "Leadership",
     "29": "Logistics",
