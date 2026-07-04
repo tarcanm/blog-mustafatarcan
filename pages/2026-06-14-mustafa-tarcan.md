@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Tarcan"
 date: 2026-06-14T21:45:00
-modified: 2026-06-15T00:38:37
+modified: 2026-07-03T23:07:20
 slug: mustafa-tarcan
 status: publish
 type: page
@@ -147,7 +147,7 @@ excerpt: "Mustafa Tarcan Supply Chain Professional · Digital Transformation · 
 <div class="mtc-profile-wrapper">
 
 <div class="mtc-profile-header">
-<img decoding="async" class="mtc-profile-avatar" src="https://www.mustafatarcan.online/user/pages/01.home/Photo%20Signature%20Profile%20Pictures.png" alt="Mustafa Tarcan">
+<img decoding="async" class="mtc-profile-avatar" src="https://www.mustafatarcan.online/user/pages/01.home/photo.png" alt="Mustafa Tarcan">
 <div class="mtc-profile-info">
 <h1>Mustafa Tarcan</h1>
 <p class="tagline">Supply Chain Professional · Digital Transformation · Operations Strategy</p>
