@@ -1,11 +1,11 @@
 ---
 title: "Steering Through Chaos"
 date: 2026-07-05T22:25:09
-modified: 2026-07-05T22:25:46
+modified: 2026-07-08T22:55:51
 slug: steering-through-chaos-supply-chain-leader
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, Leadership]
 excerpt: "The global supply chain has spent the last five years in a state of perpetual crisis. A pandemic, a container shipping meltdown, regional wars, trade decoupling, and the slow burn of climate disruptions have erased&#8230;"
 ---
 
@@ -20,4 +20,7 @@ excerpt: "The global supply chain has spent the last five years in a state of pe
 <p>The cost of hiring a leader who cannot navigate volatility goes beyond operational missteps. Insecure leaders at the top radiate caution downward. When the supply chain function reports to a CEO or board that punishes failure, the result is slower decisions, less experimentation, and a culture where people hide bad news rather than escalate it. A supply chain that hesitates is a supply chain that loses. When a shipping diversion needs to happen in hours, not days, hesitation means missed sailings, demurrage charges, and empty shelves.</p>
 <p>The most effective supply chain leaders in volatile markets share a set of traits that have little to do with years of experience. They are comfortable making decisions with incomplete information. They maintain a beginner mindset, questioning inherited assumptions rather than defending them. They rotate talent through unfamiliar roles so that the organization bench strength reflects a diversity of thinking, not a single operating philosophy. And they have the emotional security to empower their teams to escalate problems early, because they know that bad news arriving late is the one thing that cannot be fixed.</p>
 <p>For boards evaluating their supply chain executive bench, the lesson is clear. Stop looking for the candidate whose resume shows the most years in the chair. Look for the candidate who has led through failure, rebuilt a broken network, or managed a crisis that had no playbook. Look for range over depth, adaptability over pattern recognition. In a world where volatility is the new baseline, the supply chain leader who thrives is not the one who knows all the answers, but the one who knows how to ask the right questions when the answers keep changing.</p>
+
+
+<p class="wp-block-paragraph"></p>
 

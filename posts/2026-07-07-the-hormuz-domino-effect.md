@@ -1,11 +1,11 @@
 ---
 title: "The Hormuz Domino Effect"
 date: 2026-07-07T23:47:48
-modified: 2026-07-07T23:47:48
+modified: 2026-07-08T22:51:56
 slug: hormuz-domino-effect
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, International Trade, Logistics]
 excerpt: "The Strait of Hormuz has always been the worlds most critical energy chokepoint. But in the current geopolitical climate, it has become something far larger: a structural threat that reaches into every corner of global&#8230;"
 ---
 

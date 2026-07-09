@@ -1,11 +1,11 @@
 ---
 title: "AI at Home Is Playful, AI in Supply Chain Is Perilous"
 date: 2026-07-06T21:57:59
-modified: 2026-07-06T21:58:16
+modified: 2026-07-08T22:54:29
 slug: ai-at-home-playful-supply-chain-perilous
 status: publish
 type: post
-categories: [AI, Supply Chain]
+categories: [Supply Chain, AI]
 excerpt: "ChatGPT writes your emails. Midjourney generates party invitations. ElevenLabs reads your kids a bedtime story in a celebrity voice. At home, AI is a toy, a helper, a novelty. The cost of a mistake is&#8230;"
 ---
 
