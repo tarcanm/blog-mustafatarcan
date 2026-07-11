@@ -1,11 +1,11 @@
 ---
 title: "Super El Nino Tests Supply Chains"
 date: 2026-07-09T21:15:42
-modified: 2026-07-09T22:57:11
+modified: 2026-07-10T22:51:31
 slug: super-el-nino-tests-supply-chains
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, International Trade, Logistics, Operations]
 tags: [Climate Risk, El Nino, India Logistics, Port Disruption, supply chain resilience]
 excerpt: "When monsoon storms shut down India&#039;s busiest container port for 48 hours in June 2026, the average delay per ship was not the story. The story was the 14,000 stranded containers that would take three&#8230;"
 ---

@@ -1,11 +1,11 @@
 ---
 title: "The Hybrid Supply Chain"
 date: 2026-07-09T21:15:54
-modified: 2026-07-09T22:39:40
+modified: 2026-07-10T22:52:32
 slug: the-hybrid-supply-chain
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, AI, Innovation, Logistics, Operations]
 excerpt: "Here is a counterintuitive truth from the front lines of supply chain operations. We automated the warehouse. We implemented yard management systems. We deployed AI-driven planning platforms. And yet, on any given Tuesday afternoon, trucks&#8230;"
 ---
 
