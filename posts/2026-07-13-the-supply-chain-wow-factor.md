@@ -1,11 +1,11 @@
 ---
 title: "The Supply Chain WOW Factor"
 date: 2026-07-13T01:09:24
-modified: 2026-07-13T01:11:33
+modified: 2026-07-14T20:48:21
 slug: the-supply-chain-wow-factor
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, Communication, Leadership, Project management]
 excerpt: "A global retailer spent $47 million on a new warehouse management system. The software was tested for eight months. The hardware was installed on schedule. The project team won an internal award for execution excellence&#8230;."
 ---
 

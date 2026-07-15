@@ -1,11 +1,11 @@
 ---
 title: "Negotiator, Heal Thyself: How AI Is Rewriting the Procurement Playbook"
 date: 2026-07-13T21:38:24
-modified: 2026-07-13T21:40:08
+modified: 2026-07-14T20:49:20
 slug: negotiator-heal-thyself-how-ai-is-rewriting-the-procurement-playbook
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, AI, Communication, Technology]
 excerpt: "The last time a senior procurement professional walked into a high-stakes negotiation armed with nothing but experience and a three-year-old spreadsheet, they left approximately 15 percent on the table. They never found out. In fragmented&#8230;"
 ---
 

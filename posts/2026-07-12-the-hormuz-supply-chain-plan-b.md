@@ -1,11 +1,11 @@
 ---
 title: "The Hormuz Supply Chain Plan B"
 date: 2026-07-12T21:09:52
-modified: 2026-07-12T21:10:01
+modified: 2026-07-14T20:47:00
 slug: hormuz-supply-chain-plan-b
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, International Trade, Logistics, Risk Management]
 excerpt: "Last year, the average freight rate from Shanghai to Rotterdam rose by 340 percent. The reason was not a pandemic, a war, or a natural disaster. It was the quiet escalation of tensions around a&#8230;"
 ---
 
