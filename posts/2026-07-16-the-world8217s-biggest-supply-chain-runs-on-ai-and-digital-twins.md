@@ -1,7 +1,7 @@
 ---
 title: "The World&#8217;s Biggest Supply Chain Runs on AI and Digital Twins"
 date: 2026-07-16T22:46:18
-modified: 2026-07-16T22:46:41
+modified: 2026-07-17T22:59:47
 slug: walmart-ai-digital-twins-supply-chain
 status: publish
 type: post

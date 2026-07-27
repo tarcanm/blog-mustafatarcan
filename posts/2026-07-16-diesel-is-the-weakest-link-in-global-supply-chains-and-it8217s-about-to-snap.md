@@ -1,11 +1,11 @@
 ---
 title: "Diesel Is the Weakest Link in Global Supply Chains, and It&#8217;s About to Snap"
 date: 2026-07-16T22:46:42
-modified: 2026-07-16T22:46:44
+modified: 2026-07-17T23:10:46
 slug: diesel-weakest-link-global-supply-chains
 status: publish
 type: post
-categories: [Supply Chain, Technology]
+categories: [Supply Chain, Energy, Logistics, Risk Management, Technology]
 excerpt: "Diesel is the single most exposed fuel in the global supply chain, and disruptions are converging. Photo: Pexels. Supply chain professionals have learned to watch semiconductors. A shortage of microchips can shut down an automotive&#8230;"
 ---
 
