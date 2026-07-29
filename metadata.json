@@ -1,9 +1,9 @@
 {
   "blog": "https://blog.mustafatarcan.online",
-  "backup_date": "2026-07-28T04:02:34Z",
-  "total_posts": 108,
+  "backup_date": "2026-07-29T04:02:46Z",
+  "total_posts": 109,
   "total_pages": 1,
-  "total_media": 219,
+  "total_media": 220,
   "media_downloaded": 1,
   "categories": {
     "200": "AI",
@@ -25,8 +25,8 @@
     "7": "Planning",
     "14": "Project management",
     "240": "Resilience",
-    "51": "Risk Management",
     "50": "Risk Management",
+    "51": "Risk Management",
     "9": "S&amp;OE",
     "8": "S&amp;OP",
     "57": "Strategy",
