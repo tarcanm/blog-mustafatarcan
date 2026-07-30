@@ -1,11 +1,11 @@
 ---
 title: "Supplier Data Is AI Infrastructure"
 date: 2026-07-27T21:13:24
-modified: 2026-07-27T21:13:24
+modified: 2026-07-29T21:59:54
 slug: supplier-data-ai-infrastructure
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, AI, Planning, Technology]
 excerpt: "Last month, a supply chain team in Rotterdam watched an AI procurement agent place a $340,000 order for aluminium extrusions. The price was right. The lead time looked fine. The supplier scorecard glowed green. There&#8230;"
 ---
 
@@ -25,6 +25,11 @@ excerpt: "Last month, a supply chain team in Rotterdam watched an AI procurement
 <p>Here is the shift that separates companies who will thrive with agentic AI from those who will get burned: supplier data governance moves from the IT helpdesk queue to the strategic agenda. It becomes a C-suite conversation. Not because the data is more important than it was five years ago, but because the cost of getting it wrong just multiplied by a thousand.</p>
 <p>A planner making one bad call affects one order. An AI agent with bad data can make a hundred bad calls before anyone notices. The blast radius is fundamentally different.</p>
 <p>The good news is that the companies already investing in this are seeing returns that go far beyond data quality. When supplier data is treated as infrastructure, it becomes the foundation for supplier discovery, risk sensing, and automated negotiation. Clean, governed data is not a cost centre. It is the raw material for every AI advantage you are trying to build.</p>
-<figure><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/07/supplier-data-ai-inline2.jpg" alt="Futuristic supply chain control room with holographic data quality visualisation" style="width:100%"/><figcaption>Treating supplier data as critical infrastructure transforms it from a cleanup burden into the foundation for AI-powered competitive advantage.</figcaption></figure>
+<figure><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/07/supplier-data-ai-inline2.jpg" alt="Futuristic supply chain control room with holographic data quality visualisation" style="width:100%"/></p>
+<figcaption>Treating supplier data as critical infrastructure transforms it from a cleanup burden into the foundation for AI-powered competitive advantage.</figcaption>
+</figure>
 <p>Start with one question: if an AI agent started making autonomous decisions on your supplier data tomorrow morning, would you sleep tonight? If the answer is no, the governance work begins now, not after the first mistake makes headlines.</p>
+
+
+<p class="wp-block-paragraph"></p>
 
