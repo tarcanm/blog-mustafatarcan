@@ -1,11 +1,11 @@
 ---
 title: "From Watching to Acting: AI Agents Take the Wheel"
 date: 2026-07-31T21:36:46
-modified: 2026-07-31T21:37:18
+modified: 2026-08-02T21:44:14
 slug: from-watching-to-acting-ai-agents
 status: publish
 type: post
-categories: [AI, Supply Chain]
+categories: [Supply Chain, AI, End to End Visibility, Technology]
 excerpt: "Your team&#8217;s morning starts the same way. The control tower shows 187 open exceptions. One of them is the container that missed its vessel, for a customer already inside a service failure window. The other&#8230;"
 ---
 
