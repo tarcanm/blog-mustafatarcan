@@ -1,11 +1,11 @@
 ---
 title: "The Last Mile Goes to Court"
 date: 2026-08-03T21:27:26
-modified: 2026-08-03T21:27:33
+modified: 2026-08-04T21:46:32
 slug: last-mile-goes-to-court
 status: publish
 type: post
-categories: [Supply Chain]
+categories: [Supply Chain, Logistics]
 excerpt: "A drone the size of a breadbox lifted off from a Florida parking lot, carrying a bag of groceries over a suburban neighborhood. The video made the rounds on social media. At the same moment,&#8230;"
 ---
 
