@@ -1,0 +1,32 @@
+---
+title: "MSC&#8217;s Consolidation Playbook"
+date: 2026-08-25T23:16:31
+modified: 2026-08-25T23:16:45
+slug: msc-consolidation-playbook
+status: publish
+type: post
+categories: [Supply Chain]
+excerpt: "Seven Ships, One Strategy Seven of the largest container ships afloat crossed the Bab el Mandeb strait in August with their location transponders switched off. In the trade these are called dark transits: a vessel&#8230;"
+---
+
+<h2>Seven Ships, One Strategy</h2>
+<p>Seven of the largest container ships afloat crossed the Bab el Mandeb strait in August with their location transponders switched off. In the trade these are called dark transits: a vessel hides its name, its position and its course to lower the odds that a Houthi drone finds it. These were not tramp steamers testing the waters. They included MSC Amelia and MSC Irina, each able to carry more than 23,000 boxes, returning to the Suez shortcut for the first time since the Red Sea crisis forced mainline services around Africa.</p>
+<p>In the same weeks, the same company was reported to be circling multiple acquisition targets at once, with market observers describing a genuine urgency to close deals. Buy the terminals. Buy the forwarders. And quietly take the shortest route whenever the arithmetic works.</p>
+<p>Two moves. One strategy.</p>
+<figure><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/08/msc-consolidation-inline1.jpg" alt="Container ship in a narrow strait at sunrise" style="width:100%"/><figcaption>A dark transit is a calculated gamble: the shortest route, with the lights off.</figcaption></figure>
+<h2>The New Goal Is Control, Not Scale</h2>
+<p>MSC is no longer competing for market share, although it leads that game too. It is competing for control of the route: the factory gate, the ocean leg, the port and the warehouse at the other end. And every other major liner is now racing to copy the playbook.</p>
+<h2>The Shopping Spree</h2>
+<p>The shopping list reads like a map of the value chain. In 2022 MSC paid €5.7 billion for Bolloré Africa Logistics, rebranded it Africa Global Logistics, and collected a network of ports, terminals and inland operations across the continent. In 2024 it closed a 42 percent stake in Clasquin, the Lyon-based forwarder, then launched a tender offer with the stated intent of squeezing out the remaining shareholders. Clasquin&#8217;s air and sea networks in Africa and Asia plug directly into AGL&#8217;s terminals; the same shipment can now be quoted, booked, carried and cleared by one group. Its terminal arm TiL is bidding alongside Maersk&#8217;s APM Terminals for the Santos Tecon 10 concession in Brazil. Reports of interest in US drayage platform Cargomatic surfaced this summer. And the stated preference for full ownership of each new venture is the detail that matters: MSC is not investing to learn. It is buying to own.</p>
+<p>Each link acquired is margin that no longer leaks to a middleman, and a customer relationship that no longer belongs to a competitor. When the world&#8217;s largest container line, moving about one in every five boxes by sea, also owns the forwarder and the terminal, it no longer sells transport. It sells the entire journey.</p>
+<figure><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/08/msc-consolidation-inline2.jpg" alt="Container terminal at night with gantry cranes" style="width:100%"/><figcaption>Every terminal, forwarder and inland link MSC buys is margin that no longer leaks away.</figcaption></figure>
+<h2>The Shortcut Is a Weapon</h2>
+<p>The return to Suez is the other half of the playbook. For nearly three years the Red Sea was effectively closed to mainline carriers, and Asia-Europe services sailed around Africa, adding days and burning fuel. MSC&#8217;s return is selective and tactical: seven ships, all on China-Europe loops, all dark through the Bab el Mandeb. The trigger was congestion. Typhoons hammering Chinese ports pushed vessel waiting times past twelve days, and the extra two weeks of a Cape routing became too expensive to swallow. When the shortest route matters, the carrier that controls its network decides when to take it.</p>
+<p>This is the same logic behind leaving the 2M alliance with Maersk to sail solo. Alliances mean sharing schedules, sharing decisions and sharing customers. Going alone means owning the timing, the pricing and the network. Add a record orderbook race, with liner orderbooks at historic highs as carriers compete for the next generation of ultra-large vessels, and the picture is complete: the biggest fleet, the deepest terminal footprint, the broadest logistics reach, and the freedom to route all of it alone.</p>
+<h2>The Shipper on the Other Side</h2>
+<p>Consider the shipper watching from the other side of the counter. A mid-sized exporter in Lyon whose forwarder was just absorbed by the line that carries her containers. Her rates, her booking priorities and her service levels now depend on decisions made inside one group. MSC has said openly that it is targeting small and medium customers, the segment where rivals fall behind. Its chief executive told crews this summer that customer relationships remain a critical differentiator. Read that sentence carefully. A company that controls the ships, the ports and the middlemen can afford to choose which customers it fights for.</p>
+<h2>The Next Phase of Consolidation</h2>
+<p>Shipping spent two decades consolidating horizontally: carriers merging with carriers until a handful of lines controlled the majority of global capacity. That game is approaching its end, so the game has moved. Maersk is buying regional services. CMA CGM and Cosco are easing back into the Red Sea. Everyone is ordering tonnage. The next phase is vertical, and the prize is the cargo before it reaches the ship and the infrastructure after it leaves the port.</p>
+<h2>What Shippers Should Watch</h2>
+<p>The question for supply chain leaders is no longer which carrier to book. It is which parts of the route one player controls. Map your network the way a consolidator would: origin, ocean leg, destination, and every middleman in between. If the same group owns your forwarder, your ocean carrier and your terminal, you have one counterparty and one point of failure. Diversify across ownership, not just across brand names. And watch the next round of announcements, because every acquisition is a map of where the industry is heading, and a warning about the leverage leaving your hands.</p>
+
