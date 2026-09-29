@@ -1,0 +1,38 @@
+---
+title: "Agents With Job Descriptions"
+date: 2026-09-28T17:42:33
+modified: 2026-09-28T17:42:38
+slug: agents-with-job-descriptions
+status: publish
+type: post
+categories: [AI, Planning, Supply Chain]
+excerpt: "A planning department can have six people, six inboxes, and still have nobody clearly responsible when a small component stops a factory. One general purpose assistant holding demand, supply, freight, supplier risk, and master data&#8230;"
+---
+
+<p>A planning department can have six people, six inboxes, and still have nobody clearly responsible when a small component stops a factory. One general purpose assistant holding demand, supply, freight, supplier risk, and master data has unbounded scope, mixed context, invisible spending, and no reliable decision history.</p>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/09/agent-roles-featured.jpg" alt="Every role gets a job description." class="wp-image"/><figcaption>Every role gets a job description.</figcaption></figure>
+<p><strong>Give every planning role a job, trigger, budget, boundary, and traceable handoff.</strong></p>
+<h2>Start with an org chart, not a chatbot</h2>
+<p>Paperclip is a pattern here, not a supply chain product. It is an open source orchestration layer under an MIT licence. It is self hosted, requires no account, and uses Node.js, React, and PostgreSQL.</p>
+<p>Each role gets a job description, a goal, a heartbeat, a monthly budget, a decision boundary, and a handoff. Different runtimes and models can share the organisation if they receive a heartbeat. Systems of record stay where they are.</p>
+<p>That structure fixes four practical failures. Ownership is no longer unbounded. Context is separated by role. Spend is visible per agent. Decisions have a traceable history. Humans approve hires, override strategy, and can pause or terminate agents.</p>
+<h2>Six roles, six contracts</h2>
+<p>The demand planning agent has the goal of cleaning the signal, explaining major changes, and keeping the forecast story straight. Its heartbeat checks new demand data and unusual movements. It may clean and explain the signal alone, but a person must decide a material forecast change. It hands the accepted story to supply planning.</p>
+<p>The supply planning agent nets requirements, allocates supply, and proposes what to build and move. Its heartbeat checks requirements. It may prepare and compare scenarios alone, but a person approves a consequential allocation or production decision. It hands the proposal to logistics and expediting, while returning unresolved demand assumptions to demand planning.</p>
+<p>The supplier and sub tier risk agent watches the layer below the direct supplier, export controls, and single plants. Its heartbeat checks those exposures. It may flag, connect, and rank risks, but a person decides supplier intervention and strategy. It hands a validated risk case to supply planning and S&#038;OP review.</p>
+<p>The logistics and expediting agent watches in transit exceptions, late arrivals, and the chase. Its heartbeat checks movements and promised dates. It may prepare follow ups and escalate lateness, but a person decides a commercial commitment or a change that affects customers. It hands confirmed exceptions to supply planning and the relevant human owner.</p>
+<p>The master data steward maintains item codes, segmentation, and the definitions everything else depends on. Its heartbeat checks data quality. It may correct governed data within its boundary, but a person approves a definition that changes planning policy. It hands clean definitions to every role.</p>
+<p>The S&#038;OP reviewer assembles the monthly cycle, challenges the numbers, and prepares what people must decide. Its heartbeat follows the cycle calendar and gathers role outputs. It may expose contradictions and frame decisions, but cannot approve the plan. It hands a decision ready pack to people.</p>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/09/agent-roles-inline1.jpg" alt="Each role keeps its own tools." class="wp-image"/><figcaption>Each role keeps its own tools.</figcaption></figure>
+<h2>Make the boundaries visible</h2>
+<p>The contract becomes useful when the heartbeat is tied to a trigger and the escalation line is written. A role wakes, inspects assigned work, acts inside its boundary, and hands off a defined result.</p>
+<p>Paperclip provides the control pattern. Heartbeats wake agents on a schedule, and delegation can flow up and down the org chart. You manage goals, not pull requests. Permissions, boundaries, and scoped secrets make the organisation legible. Monthly budgets make cost part of the job description. The dashboard shows 50 percent, warns at 80 percent, and pauses at 100 percent.</p>
+<p>The ticket system traces every conversation and explains every decision, with full tool call tracing and an immutable audit log. Atomic task checkout and budget enforcement prevent two agents from doing the same work twice and stop spend from running away. Shared organisation wide skills, evals, and saved test runs let you review a role like an employee. Routines, projects, approvals, cases, and decision training support improvement.</p>
+<p>Consider the Nexperia disruption in October 2025. The parts cost about 75 cents, and the carmaker did not buy them directly. They sat inside parts built by its own suppliers. From 29 October, Volkswagen halted Golf and Tiguan production at Wolfsburg and the electric ID.3, ID.4, and ID.5 at Zwickau, while Bosch applied for short time work at three plants. A supplier and sub tier risk agent, not a planner, is the role that watches that layer. It can raise the case early, while people decide the response.</p>
+<p>In a planning review, the demand planner explains why the forecast moved, the buyer chases a late shipment, and months later someone asks why a decision was made. When each role leaves an auditable trace, the explanation is attached to the signal, the chase has a visible owner, and the later question can be answered from evidence rather than memory.</p>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/09/agent-roles-inline2.jpg" alt="The plan leaves a trace." class="wp-image"/><figcaption>The plan leaves a trace.</figcaption></figure>
+<h2>Turn the pattern into a Monday test</h2>
+<p>Do not begin by automating the whole department. On Monday morning, pick three planning roles. Write one goal, one budget, and one trigger for each. Put the escalation line in writing. Name the person who owns each handoff. Keep the systems of record where they are, then run one monthly cycle before adding a fourth role.</p>
+<p>During that cycle, judge the agents by the quality of their contracts. Did the demand role explain the signal? Did supply receive a usable proposal? Did risk deliver a case with an owner? Did the reviewer make the human decisions clearer? Check the tickets, the tool traces, the budget state, and the handoffs.</p>
+<p>The transformation is modest but important. The planning department stops pretending that one assistant can own everything. It becomes a set of accountable roles that wake when needed, work within limits, and leave evidence behind. People keep strategy and consequential decisions. Agents carry the repeatable work between those decisions. That is the promise of the pattern: not replacing the planning department, but giving each part of it a job it can own.</p>
+
