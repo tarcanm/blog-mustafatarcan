@@ -1,0 +1,35 @@
+---
+title: "The Tanker That Came In Blind"
+date: 2026-10-04T21:20:57
+modified: 2026-10-04T21:20:59
+slug: the-tanker-that-came-in-blind
+status: publish
+type: post
+categories: [Supply Chain, Technology]
+excerpt: "A fully laden crude supertanker, longer than the Chrysler Building is tall and as wide as an American football field, arrived off the Texas coast with its communications dead. Investigators also found evidence that outsiders&#8230;"
+---
+
+<p>A fully laden crude supertanker, longer than the Chrysler Building is tall and as wide as an American football field, arrived off the Texas coast with its communications dead. Investigators also found evidence that outsiders had reached its propulsion system. There was no data breach headline to explain the danger. There was a physical problem on a ship carrying a vast, moving store of oil.</p>
+<p>At sea, a cyberattack is not an IT event. It is a flow event. For supply chain leaders, that means the risk is not limited to stolen files or a dark screen in an office. It can reach the movement of cargo, the timing of a berth, the safety of a crew, and the reliability promised to every customer downstream.</p>
+<h2>A Physical Problem, Not a Data Problem</h2>
+<p>The ship was the Liberian flagged crude oil supertanker VL Prosperity. It left Egypt on August 1 and was bound for Galveston, Texas, when it lost communications. In August 2026, a joint U.S. Coast Guard and FBI team boarded it. The team stayed aboard for four days. Investigators found evidence that hackers temporarily accessed the propulsion system as the ship approached the Texas coast. They are still examining how the breach happened and who was responsible. It is not clear how long the intruders had access or what they could control.</p>
+<p>The FBI said the agencies boarded the VL Prosperity and a second ship to protect the integrity of both vessels&#8217; operational and information technology systems after indications that their networks were compromised. The second tanker was boarded on August 24, after both vessels reached the Gulf of Mexico. Officials reported no operational disruption, vessel instability, physical danger to crews, or environmental impact. Rear Adm. Amy Grable, commander of Coast Guard Cyber Command, said the review found a malicious cyber actor, but nothing suggested the tanker was unsafe to operate. The Coast Guard has not publicly linked the incident to any state.</p>
+<p>The scale of the response shows why planners should pay attention. The same Coast Guard Cyber Protection Team carried out an estimated 40 to 50 similar boardings in the past year. By September 2026, U.S. agencies were tracking threats against nearly 20 shipping vessels worldwide. The Coast Guard asked for advance notice when any of those ships planned to enter a U.S. port. The VL Prosperity remained anchored offshore Galveston as of the reporting.</p>
+<figure class="wp-block-image size-large wp-image-1349"><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/10/tanker-blind-inline1.jpg" alt="Engine room of a tanker, where cooling, engine speed and fuel delivery are managed" style="width:100%"/><figcaption>Cooling, engine speed and fuel delivery are the things a crew feels first.</figcaption></figure>
+<h2>The Engine Room Is Where the Risk Turns Real</h2>
+<p>The engine room makes the risk human. Cooling, engine speed, and fuel delivery are not abstract data points there. They are things a crew feels, watches, and manages before an analyst reads a log. Mehr News Agency reported that the intrusion happened on August 7, as the tanker passed the Strait of Gibraltar. Citing a crew member, it said coolant flow slowed, engine speed rose, fuel delivery was interfered with, navigation and cargo systems were accessed, and communications were cut for roughly 30 hours. U.S. authorities have not confirmed those details. The counterweight is important: Quinton DuBose, a former Coast Guard cyber official, urged caution about the Iranian coverage and rejected the idea that hackers could simply seize full command of a supertanker.</p>
+<p>DuBose&#8217;s warning points to the more useful supply chain lesson. The realistic danger may be the loss or weakening of enough separate systems to make safe operation difficult. A ship does not need to be fully controlled to miss a port window. It may only need slower decisions, uncertain engine data, damaged communications, or a crew forced to work around missing tools.</p>
+<h2>Fallback Systems Are the Real Resilience</h2>
+<p>That is why fallback systems matter. Svante Einarsson, head of cyber security at DNV, called the loss of functions on a large vessel carrying hazardous material the &#8220;worst case scenario&#8221;. He also said most vessels can fall back on other systems that let crews keep operating. Those backups are not a technical footnote. They are the bridge between an incident and a supply chain failure.</p>
+<p>Alex Soukhanov, a licensed ship captain whose firm True North Group works on maritime cybersecurity, said confirmed hacks of ship systems are rare but can have a huge impact. &#8220;These are the largest moving objects in the world transporting the world&#8217;s economy,&#8221; he said. &#8220;We just can&#8217;t have this type of unauthorized access. Every mariner should be extremely concerned.&#8221;</p>
+<figure class="wp-block-image size-large wp-image-1350"><img decoding="async" src="https://blog.mustafatarcan.online/wp-content/uploads/2026/10/tanker-blind-inline2.jpg" alt="A tanker alone at sea before sunrise" style="width:100%"/><figcaption>A tanker is a moving warehouse on a fixed schedule.</figcaption></figure>
+<p>For a planner waiting on a cargo, degraded but safe has a precise meaning. The tanker may remain stable, the crew may remain out of danger, and the cargo may remain contained. Yet the voyage can still lose time while investigators board, systems are checked, and port decisions are made. A tanker is a moving warehouse on a fixed schedule. Lost hours become lost reliability for everyone downstream. The right question is not only whether the ship can continue. It is what service level remains, what decision is delayed, and when the next usable update will arrive.</p>
+<h2>What Supply Chain Leaders Can Do Now</h2>
+<p>Supply chain leaders can act this quarter:</p>
+<ul>
+<li>Put cyber disruption into cargo plans. For every critical tanker lane, define the alternate port, alternate vessel, and customer communication trigger before a ship goes dark.</li>
+<li>Ask carriers for a plain fallback plan. Identify which navigation, propulsion, cargo, and communication functions can be run safely by crew, and how long a degraded voyage can continue.</li>
+<li>Track maritime cyber exposure like any other supply risk. Require advance notice of incidents, boarding requests, anchorage delays, and revised arrival times, then test the response with one live scenario.</li>
+</ul>
+<p>At sea, a cyberattack is not an IT event. It is a flow event.</p>
+
