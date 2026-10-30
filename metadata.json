@@ -1,9 +1,9 @@
 {
   "blog": "https://blog.mustafatarcan.online",
-  "backup_date": "2026-10-29T01:05:07Z",
-  "total_posts": 166,
+  "backup_date": "2026-10-30T01:05:01Z",
+  "total_posts": 167,
   "total_pages": 1,
-  "total_media": 320,
+  "total_media": 323,
   "media_downloaded": 3,
   "categories": {
     "200": "AI",
@@ -96,6 +96,7 @@
     "158": "container shipping",
     "130": "corporate sustainability",
     "216": "credibility",
+    "314": "critical minerals",
     "67": "culture",
     "30": "customer",
     "147": "customer experience",
@@ -250,6 +251,7 @@
     "281": "Suez Canal",
     "259": "supplier audits",
     "262": "supplier compliance",
+    "315": "supplier contracts",
     "223": "supplier due diligence",
     "263": "supplier financing",
     "92": "supplier negotiation",
