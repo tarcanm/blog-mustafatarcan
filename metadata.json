@@ -1,10 +1,10 @@
 {
   "blog": "https://blog.mustafatarcan.online",
-  "backup_date": "2026-11-19T01:04:41Z",
-  "total_posts": 183,
+  "backup_date": "2026-11-20T01:04:16Z",
+  "total_posts": 185,
   "total_pages": 1,
-  "total_media": 371,
-  "media_downloaded": 3,
+  "total_media": 377,
+  "media_downloaded": 6,
   "categories": {
     "200": "AI",
     "229": "Autonomous Vehicles",
@@ -237,6 +237,7 @@
     "295": "Replenishment",
     "265": "Reshoring",
     "261": "responsible sourcing",
+    "327": "retail logistics",
     "292": "Retail Supply Chain",
     "308": "reverse logistics",
     "47": "RFID",
